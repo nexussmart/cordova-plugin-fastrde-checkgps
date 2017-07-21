@@ -1,17 +1,20 @@
 {
-  "name": "fastgps",
+  "name": "cordova-plugin-fastrde-checkgps",
   "version": "1.0.0",
   "description": "Plugin to Check if GPS enabled on iOS and Android",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nexussmart/cordova-plugin-fastrde-checkgps.git"
   },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Volpy",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nexussmart/cordova-plugin-fastrde-checkgps/issues"
   },
